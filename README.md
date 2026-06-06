@@ -1,16 +1,15 @@
-## Hi there 👋
+# Vedanth Warrier
 
-<!--
-**vedanth-warrier/vedanth-warrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.7).
 
-Here are some ideas to get you started:
+## What I Build
+- Structural design and FEA simulation in SolidWorks
+- Embedded control systems in C/C++
+- Numerical analysis and simulation in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Electric Go-Kart](link) — Full chassis design, SolidWorks static FEA (FoS > 3), MIG fabrication, and powertrain integration
+- [Morphing Wing Aerodynamic Prototype](link) — Arduino Uno-controlled servo actuation achieving ~13% L/D improvement via open-loop direct-mapping control
+
+## Contact
+[linkedin.com/in/vedanth-warrier](https://linkedin.com/in/vedanth-warrier)
