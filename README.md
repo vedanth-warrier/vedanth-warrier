@@ -8,7 +8,7 @@ Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.7).
 - Numerical analysis and simulation in Python
 
 ## Projects
-- [Electric Go-Kart](link) — Full chassis design, SolidWorks static FEA (FoS > 3), MIG fabrication, and powertrain integration
+- [Electric Go-Kart](https://github.com/vedanth-warrier/Go-Kart) — Full chassis design, SolidWorks static FEA (FoS > 3), MIG fabrication, and powertrain integration
 - [Morphing Wing Aerodynamic Prototype](https://github.com/vedanth-warrier/Morphing-Wing) — Arduino Uno-controlled servo actuation achieving ~13% L/D improvement via open-loop direct-mapping control
 
 ## Contact
