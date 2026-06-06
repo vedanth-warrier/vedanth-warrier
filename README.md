@@ -9,7 +9,7 @@ Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.7).
 
 ## Projects
 - [Electric Go-Kart](link) — Full chassis design, SolidWorks static FEA (FoS > 3), MIG fabrication, and powertrain integration
-- [Morphing Wing Aerodynamic Prototype](link) — Arduino Uno-controlled servo actuation achieving ~13% L/D improvement via open-loop direct-mapping control
+- [Morphing Wing Aerodynamic Prototype](https://github.com/vedanth-warrier/morphing-wing-prototype) — Arduino Uno-controlled servo actuation achieving ~13% L/D improvement via open-loop direct-mapping control
 
 ## Contact
 [linkedin.com/in/vedanth-warrier](https://linkedin.com/in/vedanth-warrier)
