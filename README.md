@@ -6,6 +6,7 @@ Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.7).
 - Structural design and FEA simulation in SolidWorks
 - Embedded control systems in C/C++
 - Numerical analysis and simulation in Python
+- Flight mechanics and orbital dynamics modelling
 
 ## Projects
 - [Electric Go-Kart](https://github.com/vedanth-warrier/Go-Kart) — Full chassis design, SolidWorks static FEA (FoS > 2), MIG fabrication, and powertrain integration
