@@ -2,6 +2,9 @@
 
 Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.7).
 
+## Resume
+[Download Resume (PDF)](RESUME.pdf)
+
 ## What I Build
 - Structural design and FEA simulation in SolidWorks
 - Embedded control systems in C/C++
