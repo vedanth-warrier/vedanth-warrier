@@ -1,6 +1,6 @@
 # Vedanth Warrier
 
-Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.7).
+Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.9).
 
 ## Resume
 [View Resume (PDF)](RESUME.pdf)
@@ -10,11 +10,13 @@ Second-year Aerospace Engineering and Mathematics student at UNSW (WAM 88.7).
 - Embedded control systems in C/C++
 - Numerical analysis and simulation in Python
 - Flight mechanics and orbital dynamics modelling
+- Spacecraft attitude dynamics and control simulation in Python
 
 ## Projects
-- [Electric Go-Kart](https://github.com/vedanth-warrier/Go-Kart) — Full chassis design, SolidWorks static FEA (FoS > 2), MIG fabrication, and powertrain integration
-- [Morphing Wing Prototype](https://github.com/vedanth-warrier/Morphing-Wing) — Arduino Uno-controlled servo actuation achieving ~13% L/D improvement via open-loop direct-mapping control
-- [Orbital Trajectory & Telemetry Suite](https://github.com/vedanth-warrier/Orbital-Trajectory-Solver) — IVP gravity-turn trajectory simulator and BVP orbital insertion solver using SciPy, deployed on Streamlit
+- [ADCS Simulator](https://github.com/vedanth-warrier/ADCS-Simulator): Quaternion rigid-body dynamics and a PD reaction wheel controller with gyroscopic feedforward and saturation limits, served via a Flask API
+- [Orbital Trajectory & Telemetry Suite](https://github.com/vedanth-warrier/Orbital-Trajectory-Solver): IVP gravity-turn trajectory simulator and BVP orbital insertion solver using SciPy, deployed on Streamlit
+- [Electric Go-Kart](https://github.com/vedanth-warrier/Go-Kart): Full chassis design, SolidWorks static FEA (FoS > 2), MIG fabrication, and powertrain integration
+- [Morphing Wing Prototype](https://github.com/vedanth-warrier/Morphing-Wing): Arduino Uno-controlled servo actuation achieving ~13% L/D improvement via open-loop direct-mapping control
 
 ## Contact
 [linkedin.com/in/vedanth-warrier](https://linkedin.com/in/vedanth-warrier)
